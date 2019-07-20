@@ -6,3 +6,4 @@ Git remote
 Git branch dev
 Git commit no confict
 Git dev ff
+Git dev no ff
